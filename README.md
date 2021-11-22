@@ -1,6 +1,13 @@
-# Homework 1
- 
-The homework is due on Thursday the 4th of November at 4:00 pm. 
+# Homework 2 - Solutions
+
+--------------------------
+IMPORTANT
+--------------------------
+
+Notice that the solutions provided are simply an example of how the exercises might have been solved. Equivalent solutions will get full mark as well.
+
+--------------------------
+The homework was due on Thursday the 18th of November at 4:00 pm. 
 
 The topics that you will be assessed on are:
 
